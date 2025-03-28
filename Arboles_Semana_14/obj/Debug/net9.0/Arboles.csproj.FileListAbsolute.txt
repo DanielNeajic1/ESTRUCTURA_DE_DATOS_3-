@@ -1,0 +1,15 @@
+C:\Users\Usuario\ESTRUCTURA_DE_DATOS_3-\Arboles\bin\Debug\net9.0\Arboles.exe
+C:\Users\Usuario\ESTRUCTURA_DE_DATOS_3-\Arboles\bin\Debug\net9.0\Arboles.deps.json
+C:\Users\Usuario\ESTRUCTURA_DE_DATOS_3-\Arboles\bin\Debug\net9.0\Arboles.runtimeconfig.json
+C:\Users\Usuario\ESTRUCTURA_DE_DATOS_3-\Arboles\bin\Debug\net9.0\Arboles.dll
+C:\Users\Usuario\ESTRUCTURA_DE_DATOS_3-\Arboles\bin\Debug\net9.0\Arboles.pdb
+C:\Users\Usuario\ESTRUCTURA_DE_DATOS_3-\Arboles\obj\Debug\net9.0\Arboles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\ESTRUCTURA_DE_DATOS_3-\Arboles\obj\Debug\net9.0\Arboles.AssemblyInfoInputs.cache
+C:\Users\Usuario\ESTRUCTURA_DE_DATOS_3-\Arboles\obj\Debug\net9.0\Arboles.AssemblyInfo.cs
+C:\Users\Usuario\ESTRUCTURA_DE_DATOS_3-\Arboles\obj\Debug\net9.0\Arboles.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\ESTRUCTURA_DE_DATOS_3-\Arboles\obj\Debug\net9.0\Arboles.sourcelink.json
+C:\Users\Usuario\ESTRUCTURA_DE_DATOS_3-\Arboles\obj\Debug\net9.0\Arboles.dll
+C:\Users\Usuario\ESTRUCTURA_DE_DATOS_3-\Arboles\obj\Debug\net9.0\refint\Arboles.dll
+C:\Users\Usuario\ESTRUCTURA_DE_DATOS_3-\Arboles\obj\Debug\net9.0\Arboles.pdb
+C:\Users\Usuario\ESTRUCTURA_DE_DATOS_3-\Arboles\obj\Debug\net9.0\Arboles.genruntimeconfig.cache
+C:\Users\Usuario\ESTRUCTURA_DE_DATOS_3-\Arboles\obj\Debug\net9.0\ref\Arboles.dll
